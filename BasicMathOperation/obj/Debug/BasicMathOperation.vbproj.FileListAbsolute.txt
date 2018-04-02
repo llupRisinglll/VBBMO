@@ -1,0 +1,11 @@
+c:\users\edward\documents\visual studio 2015\Projects\BasicMathOperation\BasicMathOperation\bin\Debug\BasicMathOperation.exe.config
+C:\Users\Edward\Documents\Visual Studio 2015\Projects\BasicMathOperation\BasicMathOperation\bin\Debug\BasicMathOperation.exe
+C:\Users\Edward\Documents\Visual Studio 2015\Projects\BasicMathOperation\BasicMathOperation\bin\Debug\BasicMathOperation.pdb
+C:\Users\Edward\Documents\Visual Studio 2015\Projects\BasicMathOperation\BasicMathOperation\bin\Debug\BasicMathOperation.xml
+C:\Users\Edward\Documents\Visual Studio 2015\Projects\BasicMathOperation\BasicMathOperation\obj\Debug\BasicMathOperation.vbprojResolveAssemblyReference.cache
+C:\Users\Edward\Documents\Visual Studio 2015\Projects\BasicMathOperation\BasicMathOperation\obj\Debug\BasicMathOperation.Form1.resources
+C:\Users\Edward\Documents\Visual Studio 2015\Projects\BasicMathOperation\BasicMathOperation\obj\Debug\BasicMathOperation.Resources.resources
+C:\Users\Edward\Documents\Visual Studio 2015\Projects\BasicMathOperation\BasicMathOperation\obj\Debug\BasicMathOperation.vbproj.GenerateResource.Cache
+C:\Users\Edward\Documents\Visual Studio 2015\Projects\BasicMathOperation\BasicMathOperation\obj\Debug\BasicMathOperation.exe
+C:\Users\Edward\Documents\Visual Studio 2015\Projects\BasicMathOperation\BasicMathOperation\obj\Debug\BasicMathOperation.xml
+C:\Users\Edward\Documents\Visual Studio 2015\Projects\BasicMathOperation\BasicMathOperation\obj\Debug\BasicMathOperation.pdb
